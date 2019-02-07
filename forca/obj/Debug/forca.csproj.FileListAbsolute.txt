@@ -1,0 +1,39 @@
+C:\Users\diogo\AppData\Local\Temporary Projects\forca\bin\Debug\forca.exe.config
+C:\Users\diogo\AppData\Local\Temporary Projects\forca\bin\Debug\forca.exe
+C:\Users\diogo\AppData\Local\Temporary Projects\forca\bin\Debug\forca.pdb
+C:\Users\diogo\AppData\Local\Temporary Projects\forca\obj\Debug\forca.csprojResolveAssemblyReference.cache
+C:\Users\diogo\AppData\Local\Temporary Projects\forca\obj\Debug\forca.csproj.CoreCompileInputs.cache
+C:\Users\diogo\AppData\Local\Temporary Projects\forca\obj\Debug\forca.exe
+C:\Users\diogo\AppData\Local\Temporary Projects\forca\obj\Debug\forca.pdb
+C:\Users\diogo\Desktop\forca\forca\bin\Debug\forca.exe.config
+C:\Users\diogo\Desktop\forca\forca\bin\Debug\forca.exe
+C:\Users\diogo\Desktop\forca\forca\bin\Debug\forca.pdb
+C:\Users\diogo\Desktop\forca\forca\obj\Debug\forca.csprojResolveAssemblyReference.cache
+C:\Users\diogo\Desktop\forca\forca\obj\Debug\forca.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\forca\forca\obj\Debug\forca.exe
+C:\Users\diogo\Desktop\forca\forca\obj\Debug\forca.pdb
+F:\PEN\forca\forca\bin\Debug\forca.exe.config
+F:\PEN\forca\forca\bin\Debug\forca.exe
+F:\PEN\forca\forca\bin\Debug\forca.pdb
+F:\PEN\forca\forca\obj\Debug\forca.csprojResolveAssemblyReference.cache
+F:\PEN\forca\forca\obj\Debug\forca.exe
+F:\PEN\forca\forca\obj\Debug\forca.pdb
+E:\forca\forca\bin\Debug\forca.exe.config
+E:\forca\forca\bin\Debug\forca.exe
+E:\forca\forca\bin\Debug\forca.pdb
+E:\forca\forca\obj\Debug\forca.csprojResolveAssemblyReference.cache
+E:\forca\forca\obj\Debug\forca.exe
+E:\forca\forca\obj\Debug\forca.pdb
+C:\Users\15496692\Desktop\forca\forca\bin\Debug\forca.exe.config
+C:\Users\15496692\Desktop\forca\forca\bin\Debug\forca.exe
+C:\Users\15496692\Desktop\forca\forca\bin\Debug\forca.pdb
+C:\Users\15496692\Desktop\forca\forca\obj\Debug\forca.csprojResolveAssemblyReference.cache
+C:\Users\15496692\Desktop\forca\forca\obj\Debug\forca.exe
+C:\Users\15496692\Desktop\forca\forca\obj\Debug\forca.pdb
+F:\forca\forca\bin\Debug\forca.exe.config
+F:\forca\forca\bin\Debug\forca.exe
+F:\forca\forca\bin\Debug\forca.pdb
+F:\forca\forca\obj\Debug\forca.csprojResolveAssemblyReference.cache
+F:\forca\forca\obj\Debug\forca.csproj.CoreCompileInputs.cache
+F:\forca\forca\obj\Debug\forca.exe
+F:\forca\forca\obj\Debug\forca.pdb

@@ -1,0 +1,29 @@
+<nome> : <tentativa>  Nível:<um>  tema: <tema>
+___________		
+|	   |
+|          O	    letra:{0}
+|         /|\  
+|         / \
+|	    
+|
+|
+|____________	
+ *****************
+  _ _ _ _ _ _ _ _
+ *****************
+------------------------------------------------------
+Menu
+1- Jogar
+2- Adicionar Palavras
+3- ficheiros 
+4- Regras
+5-Créditos
+6-logs
+7-Sair
+
+--------------------
+Ficheiros 
+1-limpar palavras e temas
+2-mostrar palavras e temas
+3-voltar para o menu
+-----------------
